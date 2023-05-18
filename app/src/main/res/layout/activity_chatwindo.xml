@@ -74,11 +74,11 @@
                 android:id="@+id/textmsg"
                 android:layout_width="338dp"
                 android:layout_height="45dp"
-                android:layout_marginLeft="@dimen/_20sdp"
                 android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/_20sdp"
                 android:background="@null"
                 android:fontFamily="@font/poppins_regular"
-                android:hint="Type The Messages..."
+                android:hint="Type Message Here..."
                 android:paddingStart="13.00dp" />
 
         </androidx.cardview.widget.CardView>
