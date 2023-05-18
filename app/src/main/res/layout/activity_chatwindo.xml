@@ -31,12 +31,12 @@
             android:id="@+id/recivername"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="ayushvishwakarma"
-            android:gravity="center"
-            android:textColor="@color/white"
+            android:layout_margin="@dimen/_10sdp"
             android:fontFamily="@font/poppins_regular"
-            android:textSize="@dimen/_15sdp"
-            android:layout_margin="@dimen/_10sdp"/>
+            android:gravity="center"
+            android:text="krushik dobariya"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_15sdp" />
     </LinearLayout>
 
     <androidx.recyclerview.widget.RecyclerView
